@@ -35,7 +35,7 @@ cargo run <query> <file>
 Example:
 
 ```bash
-cargo run hello poem.txt
+cargo run frog poem.txt
 ```
 
 ### Example Output
